@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chints/opencv/work/src/image.cpp
+image.h
+/home/chints/opencv/work/src/image.h
+
+/home/chints/opencv/work/src/image.h
+string
+-
+

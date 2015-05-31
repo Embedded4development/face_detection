@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/faceDetect.dir/src/image.cpp.o CMakeFiles/faceDetect.dir/src/faceDet.cpp.o  -o faceDetect  -L/home/chints/opencv/opencv/release/lib -rdynamic -lopencv_highgui -lopencv_core -lopencv_imgproc -lopencv_videoio -lopencv_objdetect -lopencv_imgcodecs -Wl,-rpath,/home/chints/opencv/opencv/release/lib 
